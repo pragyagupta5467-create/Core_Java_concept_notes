@@ -1,11 +1,11 @@
-# Java Core Concepts
+ Java Core Concepts
 A structured repository covering Core Java fundamentals, object-oriented programming, collections, multithreading, Java 8 features, and interview-oriented practice.
 
-## Overview
+Overview
 This repository documents my Java learning journey from fundamentals to advanced Core Java concepts. It contains well-organized examples, practice programs, and implementations that strengthen problem-solving and software development skills.
 
-## Topics Covered
-### Java Fundamentals
+ Topics Covered
+ Java Fundamentals
 - Java Introduction
 - JVM, JDK, and JRE
 - Variables and Data Types
@@ -14,13 +14,13 @@ This repository documents my Java learning journey from fundamentals to advanced
 - Conditional Statements
 - Loops
 
-### Arrays and Strings
+ Arrays and Strings
 - One-Dimensional Arrays
 - Multi-Dimensional Arrays
 - String Class
 - StringBuilder and StringBuffer
 
-### Methods and OOP
+ Methods and OOP
 - Methods
 - Classes and Objects
 - Constructors
@@ -29,7 +29,7 @@ This repository documents my Java learning journey from fundamentals to advanced
 - Abstraction
 - Encapsulation
 
-### Advanced Core Java
+ Advanced Core Java
 - Wrapper Classes
 - Exception Handling
 - File Handling
@@ -42,7 +42,7 @@ This repository documents my Java learning journey from fundamentals to advanced
   - Stream API
   - Optional
 
-## Repository Structure
+ Repository Structure
 
 java-core-concepts/
 │
@@ -58,7 +58,7 @@ java-core-concepts/
 ├── Java8Features
 └── PracticePrograms
 
-## Author
+ Author
 
 Pragya Gupta
 MCA'27 || IIIT Bhopal
